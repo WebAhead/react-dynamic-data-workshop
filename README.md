@@ -249,6 +249,8 @@ This import is handled by your bundler (Create React App/WebPack here) and doesn
 
 Note: in jsx, some html attributes are camelCase and some are slightly different, for example: `class` => `className`.
 
+
+## Bonus
 ### What's next?
 
 Hopefully you'll now have a nice looking header component for our Github user card! Next we'll tackle creating a list of your repositories.
